@@ -3,7 +3,7 @@ Frontend code for the Stucon app
 This is a web app that enables students to connect with each other while taking care of their privacy.
 It's a chat app where users can send messages to friends in real-time. It's also a repository for the previous year's question paper.
 
-### Frontend Stack Tech used React ,Material Ui
+### Frontend Tech Stack used React, Material Ui
 #### Visit StuCon-backend for backend code [Click Me 🚀](https://github.com/Kushagra1974/StuCon-backend).
 #### Features:- 
 ##### Real-time messages 
